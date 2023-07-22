@@ -3,9 +3,14 @@
 
  ## 🛠  Technical Stack:
 
+
 **Backend:** Spring Boot, Spring MVC, Spring Data JPA
+
+
 **Frontend:** Thymeleaf, Bootstrap, HTML, CSS
-Database: MySQL
+
+
+**Database:** MySQL
 
 ## Live Website  
 ## https://springmvc-studentmansys-production.up.railway.app/students
